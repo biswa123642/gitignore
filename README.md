@@ -1,1 +1,3 @@
-# gitignore
+.terraform/
+.secrets
+.local_overrides
